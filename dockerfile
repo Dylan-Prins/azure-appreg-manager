@@ -1,5 +1,5 @@
 # pull down the pode image
-FROM badgerati/pode.web:latest-arm32
+FROM badgerati/pode.web:latest
 
 # or use the following for GitHub
 # FROM docker.pkg.github.com/badgerati/pode.web/pode.web:latest
